@@ -93,6 +93,12 @@ h4{
     font-size: 20px;
 }
 
+.pooler{
+    position: absolute;
+    bottom: -250px;
+    right: -800px;
+}
+
 .newslatter form{
     width: 380px;
     max-width: 100%;
